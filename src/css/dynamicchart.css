@@ -1,0 +1,28 @@
+.link {
+}
+
+.chart-heading p {
+    display: inline-block;
+}
+
+.chart-area {
+    margin-top: 5px;
+}
+
+.timezone {
+    float: right;
+    margin-right: 18px;
+    width: 40%;
+}
+
+.timezone-picker-textfield input {
+    border: 1px solid #ccc;
+    font-size: x-small;
+    font-weight: 200;
+    border-radius: 5px;
+}
+
+.timezone-picker-textfield ul {
+    font-size: x-small;
+    font-weight: 200;
+}
